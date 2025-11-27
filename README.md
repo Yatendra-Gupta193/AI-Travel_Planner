@@ -1,1 +1,1 @@
-# ProjectsG45
+**This project is an AI-powered Travel Itinerary Planner where the user enters a city, budget, and number of days, and the system generates a complete day-by-day itinerary. It uses prompt chaining and LLM API calls to produce travel summaries, sightseeing plans, dining recommendations, and map suggestions. The app automates the entire planning process by creating personalized, structured travel itineraries for users.**
