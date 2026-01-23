@@ -20,29 +20,6 @@
 
 ---
 
-## Project Structure
-
-ai-travel-planner/
-│
-├── backend/
-│   ├── __pycache__/
-│   ├── .env
-│   ├── ai_service.py
-│   ├── main.py
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── node_modules/
-│   ├── public/
-│   ├── src/
-│   ├── package.json
-│   └── package-lock.json
-│
-├── package.json
-├── package-lock.json
-└── README.md
-
-
 ## ⚙️ How to Run the Project
 
 ## 📥 Clone the Repository
