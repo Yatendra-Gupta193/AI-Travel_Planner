@@ -7,7 +7,7 @@
 ## 🚀 Features
 - AI-generated travel itineraries
 - Day-wise trip planning
-- Clean and interactive frontend
+- Clean and interactive frontend 
 - Python backend handling AI logic
 - Google Gemini API integration
 
